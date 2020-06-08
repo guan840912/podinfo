@@ -6,7 +6,7 @@ engine: gotpl
 description: Podinfo Helm chart for Kubernetes
 home: https://github.com/guan840912/podinfo
 maintainers:
-- email: stefanprodan@users.noreply.github.com
-  name: stefanprodan
+- email: guan840912@users.noreply.github.com
+  name: guan840912
 sources:
 - https://github.com/guan840912/podinfo
